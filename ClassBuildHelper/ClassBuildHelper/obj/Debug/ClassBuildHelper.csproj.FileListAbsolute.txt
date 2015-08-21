@@ -1,0 +1,9 @@
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\bin\Debug\ClassBuildHelper.exe.config
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\bin\Debug\ClassBuildHelper.exe
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\bin\Debug\ClassBuildHelper.pdb
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.csprojResolveAssemblyReference.cache
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.Properties.Resources.resources
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.csproj.GenerateResource.Cache
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.exe
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.pdb
+D:\Dev\VSWorkspace\ClassBuildHelper\ClassBuildHelper\ClassBuildHelper\obj\Debug\ClassBuildHelper.UserList.resources
